@@ -86,7 +86,7 @@ public class MovingCube : MonoBehaviour
 
         float cubeEdge = transform.position.z + (newZSize / 2f * direction);
         float fallingBlockZPosition = cubeEdge + fallingBlockSize / 2f * direction;
-      
+    
         SpawnDropCube(fallingBlockZPosition, fallingBlockSize);
     }
 

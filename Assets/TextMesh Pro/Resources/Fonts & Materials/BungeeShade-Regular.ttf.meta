@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 26dd2957e3c09394cbbf82a9b9bb5238
+guid: 04351f64e3445094f98e5e68a8a29ae3
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -8,11 +8,10 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontName: Bungee
+  fontName: Bungee Shade
   fontNames:
-  - Bungee
-  fallbackFontReferences:
-  - {fileID: 12800000, guid: 9f3aa74b766f45040aef0008d391e832, type: 3}
+  - Bungee Shade
+  fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1
